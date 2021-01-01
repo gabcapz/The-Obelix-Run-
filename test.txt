@@ -1,0 +1,15 @@
+Obelix has gone to the jungle to catch a wild boar but the romans are trying to capture him for destroying their garrison.
+
+Help Obelix to catch the wild boar by dodging the roman soldiers. 
+
+Press the up arrow key to jump and dodge the soldiers.
+
+Be careful as you have only three lives!
+
+Collect the meat pieces to earn points.
+
+Press the space key to do a small jump to collect the meat.
+
+All the best! 
+
+Press Enter to play the game
